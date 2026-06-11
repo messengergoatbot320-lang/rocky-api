@@ -1,0 +1,8 @@
+{
+  "name": "rocky-chowdhury-api",
+  "version": "1.0.0",
+  "description": "REST API by Rocky Chowdhury",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.10"
+  }
+}
