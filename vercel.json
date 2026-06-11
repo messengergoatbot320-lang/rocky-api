@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/ytDl3", "dest": "/api/ytDl3.js" }
+  ]
+}
